@@ -2,8 +2,9 @@
 Segue uma versão revisada com destaque para os logos grandes do Santander e da ADA, além de um design mais atrativo para LinkedIn e GitHub:
 
 🚀 Santander Tech+ - Formação Front-End
+![image](https://github.com/user-attachments/assets/a8816909-58c9-409b-880c-e9187876b3e2)
 
-https://files.oaiusercontent.com/file-LuVxbvhn4Qee1xoMKWZSrr?se=2024-12-18T05%3A15%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D9ddca35e-bb0e-471e-9493-43007e4d36d3.webp&sig=kWkTdlDorBkYiw%2B47jSe683ZY8q43weNrsncpO/XElw%3D
+
 👨‍💻 Tecnologias Estudadas: HTML | CSS | JavaScript | React
 🎯 Carga Horária: 31 horas
 🌟 Instituições: Santander Universidades e ADA Tech
